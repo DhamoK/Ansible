@@ -1,4 +1,5 @@
 ---
+# To create a new file and delete it
 - name: create a new file and delete it
   hosts: all
   tasks:
