@@ -1,4 +1,5 @@
 ---
+# to install git
 - name: Install git  on all nodes
   hosts: all
   become: yes
